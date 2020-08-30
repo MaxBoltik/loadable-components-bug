@@ -14,6 +14,10 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "@loadable/babel-plugin": "^5.13.0",
+    "@loadable/component": "^5.13.1",
+    "@loadable/server": "^5.13.1",
+    "@loadable/webpack-plugin": "^5.13.0",
     "gatsby": "^2.24.47",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
